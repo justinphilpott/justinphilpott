@@ -1,8 +1,6 @@
 ## Tech
 
-- NPM package author/maintainer of [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). An API client for the [Bookwhen](https://www.bookwhen.com) booking system.  
-<!--[![NPM Version](https://img.shields.io/npm/v/@jphil/bookwhen-client)](https://www.npmjs.com/package/@jphil/bookwhen-client)-->
-[![Build Status](https://img.shields.io/github/actions/workflow/status/justinphilpott/bookwhen-client/publish.yml?branch=main)](https://github.com/justinphilpott/bookwhen-client/actions)
+- NPM package author/maintainer of [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). An API client for the [Bookwhen](https://www.bookwhen.com) booking system.<br>[![Build Status](https://img.shields.io/github/actions/workflow/status/justinphilpott/bookwhen-client/publish.yml?branch=main)](https://github.com/justinphilpott/bookwhen-client/actions)
 [![Last Commit](https://img.shields.io/github/last-commit/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/commits/main)
 [![Issues](https://img.shields.io/github/issues/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/issues)
 
