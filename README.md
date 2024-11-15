@@ -1,8 +1,6 @@
+Software consultant / Lead developer with 10 years+ experience in industry: Biotech+AI. Fin tech. Broadcast media, Advertising, Government, Open Source. 
 
-
-
-
-My passion for technology lies in collaboration to co-create simple solutions to complex problems within intellectually stimulating and meaningful domains. 
+Collaboration and learning from others in cross functional, low hierarchy teams inspires me, ideally where "tech for good" is a driving ethos. 
 
 ## Open source projects and demos to explore:
 
