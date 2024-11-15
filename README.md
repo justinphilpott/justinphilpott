@@ -2,7 +2,7 @@ Software consultant / Lead developer with 10 years+ experience in industry: Biot
 
 Collaboration and learning from others in cross functional, low hierarchy teams inspires me, ideally where "tech for good" is a driving ethos. 
 
-## Open source projects and demos to explore:
+## Open source projects:
 
 - [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). NPM package author/maintainer: API client for the [Bookwhen](https://www.bookwhen.com) booking system.<br>[![Build Status](https://img.shields.io/github/actions/workflow/status/justinphilpott/bookwhen-client/publish.yml?branch=main)](https://github.com/justinphilpott/bookwhen-client/actions)
 [![Last Commit](https://img.shields.io/github/last-commit/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/commits/main)
