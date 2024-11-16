@@ -15,7 +15,9 @@ Collaboration and learning from others in cross functional, low hierarchy teams 
 
 ## Previous work
 
-AI in Biotech, Fintech, Advertising agencies and software houses
+Biotech/AI. FinTech, Startups, Broadcast media, Advertising, Government.
+
+Further details in [CV](cv link)
 
 
 ## Non-tech
