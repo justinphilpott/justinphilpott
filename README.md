@@ -19,7 +19,8 @@ Further details in [CV](cv link)
 
 ## Ventures
 
-Moving Stillness - Founder & Somatic skills education
+Moving Stillness - Founder & Somatic skills educator
+
 [www.moving-stillness.com](https://www.moving-stillness.com) empowering people to live more embodied and physically grounded lives. 
 
 ## Interests
