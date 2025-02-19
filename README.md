@@ -15,8 +15,6 @@ Collaboration and learning from others in cross functional, low hierarchy teams 
 
 Biotech/AI. FinTech, Startups, Broadcast media, Advertising, Government.
 
-Further details in [CV](cv link)
-
 ## Ventures
 
 Moving Stillness - Founder & Somatic skills educator
