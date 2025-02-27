@@ -1,4 +1,4 @@
-Software consultant / Lead developer with 10 years+ experience in industry: Biotech+AI. Fin tech. Broadcast media, Advertising, Government, Open Source. 
+Software consultant / Lead developer with 15 years+ experience in industry: Biotech+AI. Fin tech. Broadcast media, Advertising, Government, Open Source. 
 
 Collaboration and learning from others in cross functional, low hierarchy teams inspires me, ideally where "tech for good" is a driving ethos. 
 
