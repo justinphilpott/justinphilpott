@@ -3,12 +3,13 @@ Software consultant / Lead developer with 15 years+ experience in industry: Biot
 Collaboration and learning from others in cross functional, low hierarchy teams inspires me, ideally where "tech for good" is a driving ethos. 
 
 ## Open source projects:
-
+ 
 - [Agentic dev starter](https://github.com/justinphilpott/agentic-dev-starter). A micro-framework for promoting smooth agentic flow when working with assistants like Cline in VSCode.
 - [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). NPM package author/maintainer: API client for the [Bookwhen](https://www.bookwhen.com) booking system.<br>[![Build Status](https://img.shields.io/github/actions/workflow/status/justinphilpott/bookwhen-client/publish.yml?branch=main)](https://github.com/justinphilpott/bookwhen-client/actions)
 [![Last Commit](https://img.shields.io/github/last-commit/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/commits/main)
 [![Issues](https://img.shields.io/github/issues/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/issues)
-- [The Tower of Hanoi](https://towerofhanoi.app/) A version of the classic game built with [finite state machines](https://stately.ai/docs/state-machines-and-statecharts)) 
+- ExoSeek - Stellar lightcurve time-series data analysis pipeline for exoplanet detection - [WIP]
+- [The Tower of Hanoi](https://towerofhanoi.app/) A version of the classic game built with [finite state machines](https://stately.ai/docs/state-machines-and-statecharts)
 - [Fibonacci in Nature](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) a D3 demo illustrating the formation of complex patterns from simple rules.
 
 - Other open source contributions to: NextJS, XState, SST, Learn GraphQL. Github Arctic Code Vault Contributor.
@@ -17,10 +18,9 @@ Collaboration and learning from others in cross functional, low hierarchy teams 
 
 Biotech/AI. FinTech, Startups, Broadcast media, Advertising, Government.
 
-## Ventures
+## Companies
 
-Moving Stillness - Founder & Somatic skills educator
-
+Founder of Moving Stillness - Somatic skills educator, group space holder.
 [www.moving-stillness.com](https://www.moving-stillness.com) empowering people to live more embodied and physically grounded lives. 
 
 ## Interests
