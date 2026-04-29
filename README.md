@@ -14,8 +14,6 @@ Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. B
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-
-
 ## Projects:
 - [GraphSpec](https://github.com/justinphilpott/graphspec) A minimal textual surface for expressing process structure, read/writeable by agents and humans. 
 - [Entropy Guard](https://github.com/justinphilpott/entropy-guard) An evolving exploration of managing entropic "decay of signal" in iterative systems. Meta skills for generating systems analysis skills.
@@ -31,6 +29,9 @@ Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. B
 - [SST](https://sst.dev/)
 - Learn GraphQL
 - [Github Arctic Code Vault Contributor](https://archiveprogram.github.com/arctic-vault/)
+
+## Current focus
+- Agentic systems R&D.
 
 ## Previous work
 
