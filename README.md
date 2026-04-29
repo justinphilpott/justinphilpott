@@ -5,8 +5,6 @@ Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. B
 
 📍 **Brighton ↔ London** 
 
-
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -15,6 +13,8 @@ Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. B
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+
+
 
 ## Projects:
 - [Entropy Guard](https://github.com/justinphilpott/entropy-guard) An evolving exploration of managing entropic "decay of signal" in iterative systems. Meta skills for generating systems analysis skills.
@@ -39,6 +39,10 @@ Biotech/AI. FinTech, Startups, Broadcast media, Advertising, Government.
 
 Founder of Moving Stillness - Somatic skills educator, group space holder.
 [www.moving-stillness.com](https://www.moving-stillness.com) empowering people to live more embodied and physically grounded lives. 
+
+## Colaborations
+
+Somatic AI Collective - In development: a cross disciplinary colaboration exploring the interfaces between the digital and somatic worlds.
 
 ## Interests
 
