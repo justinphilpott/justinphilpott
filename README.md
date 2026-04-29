@@ -9,7 +9,13 @@ Software consultant / Lead developer with 15 years+ experience in industry: Biot
 - [Seed](https://github.com/justinphilpott/seed) Minimal CLI + skill system for agentic development.
 - [Fibonacci in Nature](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) a D3 demo illustrating the formation of complex patterns from simple rules.
 
-- Other open source contributions to: NextJS, XState, SST, Learn GraphQL. Github Arctic Code Vault Contributor.
+- Other open source contributions to:
+[Everything Claude Code](https://github.com/affaan-m/everything-claude-code),
+[NextJS](https://nextjs.org/), 
+[XState](https://stately.ai/docs/xstate), 
+[SST](https://sst.dev/))
+Learn GraphQL. 
+[Github Arctic Code Vault Contributor]https://archiveprogram.github.com/arctic-vault/.
 
 ## Previous work
 
