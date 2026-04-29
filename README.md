@@ -13,10 +13,12 @@ Software consultant / Lead developer with 15 years+ experience in industry: Biot
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Projects:
-- [Entropy Guard](https://github.com/justinphilpott/seed) An evolving exploration of managing entropic "decay of signal" in iterative systems.
+- [Entropy Guard](https://github.com/justinphilpott/entropy-guard) An evolving exploration of managing entropic "decay of signal" in iterative systems.
 - [Seed](https://github.com/justinphilpott/seed) Simple POC scaffolding tool
+
+# Legacy
 - [The Tower of Hanoi](https://towerofhanoi.app/) A version of the classic game built with [finite state machines](https://stately.ai/docs/state-machines-and-statecharts)
-- [Fibonacci in Nature](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) a D3 demo illustrating the formation of complex patterns from simple rules.
+- [Fibonacci in Nature](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) Simple D3 demo illustrating the formation of complex patterns from simple rules.
 
 ## Open Source contrib:
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code),
