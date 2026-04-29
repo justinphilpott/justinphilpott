@@ -24,12 +24,10 @@ Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. B
 
 ## Open Source contrib to:
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code),
-- [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). NPM package author/maintainer: API client for the [Bookwhen](https://www.bookwhen.com) booking system.<br>[![Build Status](https://img.shields.io/github/actions/workflow/status/justinphilpott/bookwhen-client/publish.yml?branch=main)](https://github.com/justinphilpott/bookwhen-client/actions)
-[![Last Commit](https://img.shields.io/github/last-commit/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/commits/main)
-[![Issues](https://img.shields.io/github/issues/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/issues)
+- [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). NPM package author/maintainer: API client for the [Bookwhen](https://www.bookwhen.com) booking system.
 - [NextJS](https://nextjs.org/)
 - [XState](https://stately.ai/docs/xstate)
-- [SST](https://sst.dev/))
+- [SST](https://sst.dev/)
 - Learn GraphQL
 - [Github Arctic Code Vault Contributor](https://archiveprogram.github.com/arctic-vault/)
 
