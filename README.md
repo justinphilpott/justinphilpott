@@ -1,15 +1,15 @@
 Software consultant / Lead developer with 15 years+ experience in industry: Biotech+AI. Fin tech. Broadcast media, Advertising, Government, Open Source. 
 
-## Open source projects:
- 
-- [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). NPM package author/maintainer: API client for the [Bookwhen](https://www.bookwhen.com) booking system.<br>[![Build Status](https://img.shields.io/github/actions/workflow/status/justinphilpott/bookwhen-client/publish.yml?branch=main)](https://github.com/justinphilpott/bookwhen-client/actions)
+## Projects:
+[Entropy Guard](https://github.com/justinphilpott/seed) An evolving exploration of managing entropic "decay of signal" in iterative systems.
+[Seed](https://github.com/justinphilpott/seed) Simple POC scaffolding tool
+[The Tower of Hanoi](https://towerofhanoi.app/) A version of the classic game built with [finite state machines](https://stately.ai/docs/state-machines-and-statecharts)
+[Fibonacci in Nature](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) a D3 demo illustrating the formation of complex patterns from simple rules.
+
+## Open Source contrib:
+[@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). NPM package author/maintainer: API client for the [Bookwhen](https://www.bookwhen.com) booking system.<br>[![Build Status](https://img.shields.io/github/actions/workflow/status/justinphilpott/bookwhen-client/publish.yml?branch=main)](https://github.com/justinphilpott/bookwhen-client/actions)
 [![Last Commit](https://img.shields.io/github/last-commit/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/commits/main)
 [![Issues](https://img.shields.io/github/issues/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/issues)
-- [The Tower of Hanoi](https://towerofhanoi.app/) A version of the classic game built with [finite state machines](https://stately.ai/docs/state-machines-and-statecharts)
-- [Seed](https://github.com/justinphilpott/seed) Minimal CLI + skill system for agentic development.
-- [Fibonacci in Nature](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) a D3 demo illustrating the formation of complex patterns from simple rules.
-
-- Other open source contributions to:
 [Everything Claude Code](https://github.com/affaan-m/everything-claude-code),
 [NextJS](https://nextjs.org/), 
 [XState](https://stately.ai/docs/xstate), 
