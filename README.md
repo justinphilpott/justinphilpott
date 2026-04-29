@@ -1,8 +1,9 @@
 
 # Hi, I'm Justin 👋
 
+Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. Broadcast media, Advertising, Government, Open Source. 
+
 📍 **Brighton ↔ London** 
-Software consultant / Lead developer with 15 years+ experience in industry: Biotech+AI. Fin tech. Broadcast media, Advertising, Government, Open Source. 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
