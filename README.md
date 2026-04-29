@@ -5,6 +5,8 @@ Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. B
 
 📍 **Brighton ↔ London** 
 
+
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -24,11 +26,11 @@ Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. B
 - [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). NPM package author/maintainer: API client for the [Bookwhen](https://www.bookwhen.com) booking system.<br>[![Build Status](https://img.shields.io/github/actions/workflow/status/justinphilpott/bookwhen-client/publish.yml?branch=main)](https://github.com/justinphilpott/bookwhen-client/actions)
 [![Last Commit](https://img.shields.io/github/last-commit/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/commits/main)
 [![Issues](https://img.shields.io/github/issues/justinphilpott/bookwhen-client)](https://github.com/justinphilpott/bookwhen-client/issues)
-- [NextJS](https://nextjs.org/), 
-- [XState](https://stately.ai/docs/xstate), 
+- [NextJS](https://nextjs.org/)
+- [XState](https://stately.ai/docs/xstate)
 - [SST](https://sst.dev/))
-- Learn GraphQL. 
-- [Github Arctic Code Vault Contributor]https://archiveprogram.github.com/arctic-vault/.
+- Learn GraphQL
+- [Github Arctic Code Vault Contributor](https://archiveprogram.github.com/arctic-vault/)
 
 ## Previous work
 
