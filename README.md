@@ -17,7 +17,7 @@ Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. B
 
 
 ## Projects:
-- [GraphSpec](https://github.com/justinphilpott/graphspec) A minimal textual surface for expressing process structure for agents and human. 
+- [GraphSpec](https://github.com/justinphilpott/graphspec) A minimal textual surface for expressing process structure, read/writeable by agents and humans. 
 - [Entropy Guard](https://github.com/justinphilpott/entropy-guard) An evolving exploration of managing entropic "decay of signal" in iterative systems. Meta skills for generating systems analysis skills.
 - [Seed](https://github.com/justinphilpott/seed) Simple POC scaffolding tool.
 - [The Tower of Hanoi](https://towerofhanoi.app/) Am experiment in controlling UI logic with Finite State Machines.
