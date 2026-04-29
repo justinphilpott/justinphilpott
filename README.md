@@ -17,13 +17,13 @@ Software Engineer with 20 years+ experience in industry: Biotech+AI. Fin tech. B
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Projects:
-- [Entropy Guard](https://github.com/justinphilpott/entropy-guard) An evolving exploration of managing entropic "decay of signal" in iterative systems.
+- [Entropy Guard](https://github.com/justinphilpott/entropy-guard) An evolving exploration of managing entropic "decay of signal" in iterative systems. Meta skills for generating systems analysis skills.
 - [Seed](https://github.com/justinphilpott/seed) Simple POC scaffolding tool
 - [The Tower of Hanoi](https://towerofhanoi.app/) A version of the classic game built with [finite state machines](https://stately.ai/docs/state-machines-and-statecharts)
 - [Fibonacci in Nature](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) Simple D3 demo illustrating the formation of complex patterns from simple rules.
 
 ## Open Source contrib to:
-- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code),
+- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) 
 - [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client). NPM package author/maintainer: API client for the [Bookwhen](https://www.bookwhen.com) booking system.
 - [NextJS](https://nextjs.org/)
 - [XState](https://stately.ai/docs/xstate)
