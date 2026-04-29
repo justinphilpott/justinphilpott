@@ -45,6 +45,6 @@ Founder of Moving Stillness - Somatic skills educator, group space holder.
 
 Somatic AI Collective - In development: a cross disciplinary colaboration exploring the interfaces between the digital and somatic worlds.
 
-## Interests
+## Other Interests
 
 An amateur pianist, carpenter, hill runner, climber, stargazer and regular attendee at [Brighton Astro lectures](https://brightonastro.com/)
