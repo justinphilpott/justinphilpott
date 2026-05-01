@@ -23,8 +23,8 @@ Exploring agentic systems, tooling, portable architectures that reduce vendor lo
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ![Pi Coding Agent](https://img.shields.io/badge/-Pi%20Coding%20Agent-121212?style=flat-square)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 
 ## Projects
 
