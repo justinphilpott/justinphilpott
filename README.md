@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-Independent software engineer and technologist with 20+ years’ experience across Biotech + AI, FinTech, broadcast media, advertising, government, startups, and open source.
+Independent software engineer and technologist with 20+ years’ experience building practical systems across research, product, and public-facing services.
 
 Alongside software, I’m the founder of [Moving Stillness](https://www.moving-stillness.com)  — School of Somatics, where I teach embodied movement practices.
 
@@ -47,7 +47,11 @@ Agentic systems R&D — see Projects below.
 
 ## Previous work
 
-Biotech + AI · FinTech · Startups · Broadcast media · Advertising · Government
+20+ years delivering full-stack software across biotech + AI, FinTech, startups, broadcast media, advertising, government, and high-traffic publishing.
+
+Past work includes leading full-stack delivery for biotech ML tooling at ZenithAI, building UI auto-generation systems for ML apps, developing client delivery platforms, contributing to major publishing platforms, and working on public-facing services for Royal Mail and ParcelForce.
+
+Selected organisations and domains: ZenithAI / OpenTrons, Dow Jones, Immediate Media, Invesco, Capgemini, Royal Mail, ParcelForce, BFI, broadcast media, financial services, biotech, and government.
 
 ## Collaborations
 
