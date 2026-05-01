@@ -47,11 +47,9 @@ Agentic systems R&D — see Projects below.
 
 ## Previous work
 
-20+ years delivering full-stack software across biotech + AI, FinTech, startups, broadcast media, advertising, government, and high-traffic publishing.
+20+ years delivering full-stack software across biotech + AI, FinTech, publishing, broadcast media, advertising, government, fashion, and startups.
 
-Past work includes leading full-stack delivery for biotech ML tooling at ZenithAI, building UI auto-generation systems for ML apps, developing client delivery platforms, contributing to major publishing platforms, and working on public-facing services for Royal Mail and ParcelForce.
-
-Selected organisations and domains: ZenithAI / OpenTrons, Dow Jones, Immediate Media, Invesco, Capgemini, Royal Mail, ParcelForce, BFI, broadcast media, financial services, biotech, and government.
+Selected work includes biotech ML tooling and UI auto-generation systems at ZenithAI, public-facing services for Royal Mail and ParcelForce, financial data interfaces at Invesco, publishing platforms at Dow Jones and Immediate Media, earlier public-sector work for the British Army / MOD, London Fashion Week, BFI, Teachers TV, HangarSeven, and others.
 
 ## Collaborations
 
