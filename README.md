@@ -10,7 +10,7 @@ I’m interested in working from the places where separate domains meet, inform 
 
 ## Current focus
 
-Exploring agentic systems, tooling, portable architectures that reduce vendor lock-in, and ways to preserve signal through iterative AI-assisted work.
+Agentic systems R&D — see Projects below.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,8 +28,8 @@ Exploring agentic systems, tooling, portable architectures that reduce vendor lo
 
 ## Projects
 
-- Agentic architecture R&D (currently closed source) — Scope-based orchestration, voice interfaces, deterministic tooling, review gates, and vendor-independent agent systems.
-- [Entropy Guard](https://github.com/justinphilpott/entropy-guard) — An evolving exploration of managing the entropic decay of signal in iterative systems, including meta-skills for generating systems-analysis skills.
+- Agentic architecture R&D (currently closed source) — Scope-based orchestration, voice interfaces (sync and async), deterministic tooling and vendor-independent agent systems.
+- [Entropy Guard](https://github.com/justinphilpott/entropy-guard) — An evolving exploration of entropy resistance and signal preservation in iterative AI-assisted systems.
 - [GraphSpec](https://github.com/justinphilpott/graphspec) — A minimal textual surface for expressing process structure, readable and writable by agents and humans.
 - [Seed](https://github.com/justinphilpott/seed) — A simple POC scaffolding tool for starting agent-assisted software projects with useful context from the beginning.
 - [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client) — NPM package author and maintainer: an API client for the [Bookwhen](https://www.bookwhen.com) booking system.
