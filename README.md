@@ -6,25 +6,37 @@ Currently exploring agentic systems, tooling, portable architectures that reduce
 
 Alongside software, I’m the founder of [Moving Stillness](https://www.moving-stillness.com), where I teach somatic skills, Thai massage, and embodied movement practices. A lot of my current thinking sits at the intersection of software, somatics, and human systems.
 
-📍 Brighton ↔ London
+📍 **Brighton ↔ London**
 
-## Core technologies
-
-TypeScript · JavaScript · Node.js · Astro · React · XState · D3 · Codex · Claude CLI · Web
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![XState](https://img.shields.io/badge/-XState-2C3E50?style=flat-square&logo=xstate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Projects
 
-- **GraphSpec** — A minimal textual surface for expressing process structure, readable and writable by both agents and humans.
-- **Entropy Guard** — An evolving exploration of managing the entropic decay of signal in iterative systems, including meta-skills for generating systems-analysis skills.
-- **Seed** — A simple POC scaffolding tool for starting agent-assisted software projects with useful context from the beginning.
-- **The Tower of Hanoi** — An experiment in controlling UI logic with finite state machines.
-- **Fibonacci in Nature** — A simple D3 demo illustrating how complex patterns can emerge from simple rules.
+- [Entropy Guard](https://github.com/justinphilpott/entropy-guard) — An evolving exploration of managing the entropic decay of signal in iterative systems, including meta-skills for generating systems-analysis skills.
+- [GraphSpec](https://github.com/justinphilpott/graphspec) — A minimal textual surface for expressing process structure, readable and writable by agents and humans.
+- [Seed](https://github.com/justinphilpott/seed) — A simple POC scaffolding tool for starting agent-assisted software projects with useful context from the beginning.
+- [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client) — NPM package author and maintainer: an API client for the [Bookwhen](https://www.bookwhen.com) booking system.
+- [The Tower of Hanoi](https://towerofhanoi.app/) — An experiment in controlling UI logic with finite state machines.
+- [Fibonacci in Nature](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) — A simple D3 demo illustrating how complex patterns can emerge from simple rules.
 
-## Open source
+## Open source contrib
 
-- **[@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client)** — Author and maintainer of an API client for the Bookwhen booking system.
-- Contributions to **Everything Claude Code**, **Next.js**, **XState**, **SST**, and **Learn GraphQL**.
-- GitHub Arctic Code Vault Contributor.
+- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
+- [Next.js](https://nextjs.org/)
+- [XState](https://stately.ai/docs/xstate)
+- [SST](https://sst.dev/)
+- Learn GraphQL
+- [GitHub Arctic Code Vault Contributor](https://archiveprogram.github.com/arctic-vault/)
 
 ## Previous work
 
@@ -32,10 +44,10 @@ Biotech + AI · FinTech · Startups · Broadcast media · Advertising · Governm
 
 ## Somatics and collaborations
 
-Founder of **Moving Stillness** — a school of somatic skills, Thai massage, and Contact Improvisation, supporting people to live more embodied and physically grounded lives.
+Founder of [Moving Stillness](https://www.moving-stillness.com) — a school of somatic skills, Thai massage, and embodied movement practices, supporting people to live more embodied and physically grounded lives.
 
 **Somatic AI Collective** — In development: a cross-disciplinary collaboration exploring the interfaces between digital and somatic worlds.
 
 ## Other interests
 
-Amateur pianist, carpenter, hill runner, climber, stargazer, and regular attendee at Brighton Astro lectures.
+Amateur pianist, carpenter, hill runner, climber, stargazer, and regular attendee at [Brighton Astro lectures](https://brightonastro.com/).
