@@ -2,11 +2,15 @@
 
 Independent software engineer and technologist with 20+ years’ experience across Biotech + AI, FinTech, broadcast media, advertising, government, startups, and open source.
 
-Currently exploring agentic systems, tooling, portable architectures that reduce vendor lock-in, and ways to preserve signal through iterative AI-assisted work.
+Alongside software, I’m the founder of [Moving Stillness](https://www.moving-stillness.com), where I teach somatic skills, Thai massage, and embodied movement practice.
 
-Alongside software, I’m the founder of [Moving Stillness](https://www.moving-stillness.com), where I teach somatic skills, Thai massage, and embodied movement practices. A lot of my current thinking sits at the intersection of software, somatics, and human systems.
+I’m interested in working from the places where separate domains meet, inform each other, and become more useful together — especially software, somatics, and human collaboration.
 
 📍 **Brighton ↔ London**
+
+## Current focus
+
+Exploring agentic systems, tooling, portable architectures that reduce vendor lock-in, and ways to preserve signal through iterative AI-assisted work.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
