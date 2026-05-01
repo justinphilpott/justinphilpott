@@ -60,9 +60,9 @@ Selected work:
 
 ## Collaborations
 
-**Somatic AI Collective** — Early stages: a cross-disciplinary collaboration exploring the interfaces between digital and somatic worlds.
+- **Somatic AI Collective** — An early-stages cross-disciplinary collaboration exploring the interfaces between digital and somatic worlds.
 
-I mentor an 11-year-old learner in coding, using game-development projects to explore programming, design, and agentic ways of building software.
+- I mentor an 11-year-old learner in coding, using game-development projects to explore programming, design, and agentic ways of building software.
 
 ## Other interests
 
