@@ -48,11 +48,11 @@ Exploring agentic systems, tooling, portable architectures that reduce vendor lo
 
 Biotech + AI · FinTech · Startups · Broadcast media · Advertising · Government
 
-## Somatics and collaborations
+## Collaborations
 
 Founder of [Moving Stillness](https://www.moving-stillness.com) — a school of somatic skills, Thai massage, and embodied movement practices, supporting people to live more embodied and physically grounded lives.
 
-**Somatic AI Collective** — In development: a cross-disciplinary collaboration exploring the interfaces between digital and somatic worlds.
+**Somatic AI Collective** — Early stages: a cross-disciplinary collaboration exploring the interfaces between digital and somatic worlds.
 
 ## Other interests
 
