@@ -4,7 +4,7 @@ Independent software engineer and technologist with 20+ years’ experience acro
 
 Alongside software, I’m the founder of [Moving Stillness](https://www.moving-stillness.com)  — School of Somatics, where I teach embodied movement practices.
 
-I’m interested in working from the places where separate domains meet, inform each other, and become more useful together — especially software, somatics, and human collaboration.
+I’m interested in working from the places where separate domains meet, inform each other, and become mutually catalytic.
 
 📍 **Brighton ↔ London**
 
