@@ -28,6 +28,7 @@ Exploring agentic systems, tooling, portable architectures that reduce vendor lo
 
 ## Projects
 
+- Agentic architecture R&D (currently closed source) — Scope-based orchestration, voice interfaces, deterministic tooling, review gates, and vendor-independent agent systems.
 - [Entropy Guard](https://github.com/justinphilpott/entropy-guard) — An evolving exploration of managing the entropic decay of signal in iterative systems, including meta-skills for generating systems-analysis skills.
 - [GraphSpec](https://github.com/justinphilpott/graphspec) — A minimal textual surface for expressing process structure, readable and writable by agents and humans.
 - [Seed](https://github.com/justinphilpott/seed) — A simple POC scaffolding tool for starting agent-assisted software projects with useful context from the beginning.
