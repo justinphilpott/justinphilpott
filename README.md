@@ -2,7 +2,7 @@
 
 Independent software engineer and technologist with 20+ years’ experience building practical systems across research, product, and public-facing services.
 
-Alongside software, I’m the founder of [Moving Stillness](https://www.moving-stillness.com)  — School of Somatics, where I teach embodied movement practices.
+Alongside software, I’m the founder of [Moving Stillness](https://www.moving-stillness.com) — School of Somatics, where I teach embodied movement practices.
 
 I’m interested in working from the places where separate domains meet, inform each other, and become mutually catalytic.
 
@@ -28,16 +28,16 @@ Agentic systems R&D — see Projects below.
 
 ## Projects
 
-- Agentic architecture R&D (currently closed source) — Scope-based orchestration, voice interfaces (sync and async), deterministic tooling and vendor-independent agent systems.
-- Geometric folding simulation — (in development) Exploring transformable polyhedral geometry, kinematic loops, constraint systems, and MuJoCo-based physical simulation.
-- [Entropy Guard](https://github.com/justinphilpott/entropy-guard) — An evolving exploration of entropy resistance and signal preservation in iterative AI-assisted systems.
-- [GraphSpec](https://github.com/justinphilpott/graphspec) — A minimal textual surface for expressing process structure, readable and writable by agents and humans.
-- [Seed](https://github.com/justinphilpott/seed) — A simple POC scaffolding tool for starting agent-assisted software projects with useful context from the beginning.
-- [@jphil/bookwhen-client](https://www.npmjs.com/package/@jphil/bookwhen-client) — NPM package author and maintainer: an API client for the [Bookwhen](https://www.bookwhen.com) booking system.
-- [The Tower of Hanoi](https://towerofhanoi.app/) — An experiment in controlling UI logic with finite state machines.
-- [Fibonacci in Nature](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) — A simple D3 demo illustrating how complex patterns can emerge from simple rules.
+- **Agentic architecture R&D** — Currently closed source. Scope-based orchestration, voice interfaces, sync/async pipelines, deterministic tooling, and vendor-independent agent systems.
+- **Geometric folding simulation** — In development. Exploring transformable polyhedral geometry, kinematic loops, constraint systems, and MuJoCo-based physical simulation.
+- [**Entropy Guard**](https://github.com/justinphilpott/entropy-guard) — An evolving exploration of entropy resistance and signal preservation in iterative AI-assisted systems.
+- [**GraphSpec**](https://github.com/justinphilpott/graphspec) — A minimal textual surface for expressing process structure, readable and writable by agents and humans.
+- [**Seed**](https://github.com/justinphilpott/seed) — A simple POC scaffolding tool for starting agent-assisted software projects with useful context from the beginning.
+- [**@jphil/bookwhen-client**](https://www.npmjs.com/package/@jphil/bookwhen-client) — NPM package author and maintainer: an API client for the [Bookwhen](https://www.bookwhen.com) booking system.
+- [**The Tower of Hanoi**](https://towerofhanoi.app/) — An experiment in controlling UI logic with finite state machines.
+- [**Fibonacci in Nature**](https://observablehq.com/@justinphilpott/d3-js-spiral-growth-explorer-fibonacci-in-nature) — A simple D3 demo illustrating how complex patterns can emerge from simple rules.
 
-## Open source contrib
+## Open source contributions
 
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
 - [Next.js](https://nextjs.org/)
@@ -60,8 +60,7 @@ Selected work:
 
 ## Collaborations
 
-- **Somatic AI Collective** — An early-stages cross-disciplinary collaboration exploring the interfaces between digital and somatic worlds.
-
+- **Somatic AI Collective** — An early-stage cross-disciplinary collaboration exploring the interfaces between digital and somatic worlds.
 - I mentor an 11-year-old learner in coding, using game-development projects to explore programming, design, and agentic ways of building software.
 
 ## Other interests
