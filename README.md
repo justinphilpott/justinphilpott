@@ -29,6 +29,7 @@ Agentic systems R&D — see Projects below.
 ## Projects
 
 - Agentic architecture R&D (currently closed source) — Scope-based orchestration, voice interfaces (sync and async), deterministic tooling and vendor-independent agent systems.
+- Geometric folding simulation — In development. Exploring transformable polyhedral geometry, kinematic loops, constraint systems, and MuJoCo-based physical simulation.
 - [Entropy Guard](https://github.com/justinphilpott/entropy-guard) — An evolving exploration of entropy resistance and signal preservation in iterative AI-assisted systems.
 - [GraphSpec](https://github.com/justinphilpott/graphspec) — A minimal textual surface for expressing process structure, readable and writable by agents and humans.
 - [Seed](https://github.com/justinphilpott/seed) — A simple POC scaffolding tool for starting agent-assisted software projects with useful context from the beginning.
@@ -53,9 +54,9 @@ Selected work includes biotech ML tooling and UI auto-generation systems at Zeni
 
 ## Collaborations
 
-Founder of [Moving Stillness](https://www.moving-stillness.com) — School of Somatics.
-
 **Somatic AI Collective** — Early stages: a cross-disciplinary collaboration exploring the interfaces between digital and somatic worlds.
+
+I mentor an 11-year-old learner in coding, using game-development projects to explore programming, design, and agentic ways of building software.
 
 ## Other interests
 
