@@ -2,7 +2,7 @@
 
 Independent software engineer and technologist with 20+ years’ experience across Biotech + AI, FinTech, broadcast media, advertising, government, startups, and open source.
 
-Alongside software, I’m the founder of [Moving Stillness](https://www.moving-stillness.com), where I teach somatic skills, Thai massage, and embodied movement practice.
+Alongside software, I’m the founder of [Moving Stillness](https://www.moving-stillness.com), where I teach embodied movement practices.
 
 I’m interested in working from the places where separate domains meet, inform each other, and become more useful together — especially software, somatics, and human collaboration.
 
